@@ -1,0 +1,9 @@
+Symbol Table (Labels & Variables) for K = 57
+---------------------------------------------
+LOOP                 : ROM 0 (Label)
+SET_WHITE            : ROM 8 (Label)
+DRAW                 : ROM 10 (Label)
+ROW_LOOP             : ROM 18 (Label)
+color                : RAM 16 (Variable)
+addr                 : RAM 17 (Variable)
+rows                 : RAM 18 (Variable)
